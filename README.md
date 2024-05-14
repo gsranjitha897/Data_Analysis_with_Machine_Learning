@@ -86,11 +86,7 @@ Developed machine learning models for predictive analysis, resulting in improved
 
    
 
-I hope you find the information here useful! 
-
-Feel free to explore my repositories and connect with me on LinkedIn for any collaboration opportunities or inquiries.
-
- www.linkedin.com/in/ranjitha-gs-801420298
+I hope you find the information here useful! Feel free to explore my repositories and connect with me on LinkedIn for any collaboration opportunities or inquiries.
 
 
 <!---
