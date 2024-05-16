@@ -38,8 +38,8 @@ Contributed to project-related forms and addressed development challenges.
 Resolved data-level and application-level issues, specializing in Oracle, PostgreSQL, and Python.
 
 Junior Software Developer Intern | National skill developement counsil |
-Learned Programming C, Java, HTML, SQl
-Learned Basics of  DDL, DML commands 
+Learned Programming C, Java, HTML, SQL.
+Learned Basics of  DDL, DML commands.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Technical Skills**
