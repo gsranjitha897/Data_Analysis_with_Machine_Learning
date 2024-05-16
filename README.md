@@ -56,7 +56,7 @@ Learned Basics of  DDL, DML commands.
 
 6. Statistics:             Descriptive, Inferential statistics, Outliers, Hypothesis testing, Confidence interval, T-Test, Z-test
 
-7. Machine Learning:       Machine Learning Algorithms and model building
+7. Machine Learning:       Machine Learning Algorithms and ML Model building
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Projects**
 
