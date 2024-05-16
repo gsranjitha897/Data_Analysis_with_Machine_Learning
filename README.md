@@ -29,15 +29,15 @@ https://github.com/gsranjitha897/gsranjitha897
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Professional Experience**
 
-Data Analyst Trainee | Bepec Solutions Pvt Ltd
+Data Analyst Trainee | Bepec Solutions Pvt Ltd |
 Conducted data analysis, interpretation, and extraction of valuable insights.
 Specialized in Data modelling, Data visualization, Predictive analytics, and Dashboard development.
 
-Technical Support Engineer | Idea Infinity IT Solutions Pvt Ltd
+Technical Support Engineer | Idea Infinity IT Solutions Pvt Ltd |
 Contributed to project-related forms and addressed development challenges.
 Resolved data-level and application-level issues, specializing in Oracle, PostgreSQL, and Python.
 
-Junior Software Developer Intern | National skill developement counsil
+Junior Software Developer Intern | National skill developement counsil |
 Learned Programming C, Java, HTML, SQl
 Learned Basics of  DDL, DML commands 
 
