@@ -52,7 +52,7 @@ Resolved data-level and application-level issues, specializing in Oracle, Postgr
 
 6. Statistics:             Descriptive, Inferential statistics, Outliers, Hypothesis testing, Confidence interval, T-Test, Z-test
 
-7. Machine Learning:       Linear Regression, Logistic Regression, Decision Trees, Random Forests
+7. Machine Learning:       Machine Learning Algorithms and model building
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Projects**
 
@@ -73,11 +73,15 @@ Developed machine learning models for predictive analysis, resulting in improved
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ****Certificates and Training****
 
-1. Full Stack Data analytics from Oct 2023 to Jan 2024 at BEPEC Solution.
+1. Intoduction to Artificial Intelligence - May 2024 - Link (https://simpli-web.app.link/e/v0ow0iKtDJb) at Simplilearn
 
-2. Junior Software Development (JSD) at Pradhan Mantri Kausalya Vikas Yojana (PMKVY) Nelamangala.
+2. Full Stack Data analytics from Oct 2023 to Jan 2024 at BEPEC Solution.
 
-3. Internship based on IOT Raspberry Pi from Feb 2017 to May 2017 at Inventeron Technologies and Business Solutions LLP.
+3. Junior Software Development (JSD) at Pradhan Mantri Kausalya Vikas Yojana (PMKVY) Nelamangala.
+
+4. Internship based on IOT Raspberry Pi from Feb 2017 to May 2017 at Inventeron Technologies and Business Solutions LLP.
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Educational Qualification**
