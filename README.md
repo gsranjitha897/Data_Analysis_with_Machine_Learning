@@ -46,7 +46,7 @@ Learned Basics of  DDL, DML commands.
 
 1. Operating System:       WindowsXP, Fedora, Unix
 
-2. IDE/BI Tools:           Eclipse, PyTorch, Tensorflow, Jupyter Notebook, Tableau, Microsoft Power BI
+2. IDE/BI Tools:           Eclipse, PyTorch, Tensorflow, Jupyter Notebook, Google colab, Tableau, Microsoft Power BI
 
 3. Programming Language:   C, C++, Java, JavaScript, HTML, SQL, Python
 
