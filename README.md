@@ -77,13 +77,15 @@ Developed machine learning models for predictive analysis, resulting in improved
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ****Certificates and Training****
 
-1. Intoduction to Artificial Intelligence - May 2024 - Link (https://simpli-web.app.link/e/v0ow0iKtDJb) at Simplilearn
+1. Data science 101 - May 2024 - Link (https://simpli-web.app.link/e/donO1T4ZDJb) at Simplilearn
+   
+2. Intoduction to Artificial Intelligence - May 2024 - Link (https://simpli-web.app.link/e/v0ow0iKtDJb) at Simplilearn
 
-2. Full Stack Data analytics from Oct 2023 to Jan 2024 at BEPEC Solution.
+3. Full Stack Data analytics from Oct 2023 to Jan 2024 at BEPEC Solution.
 
-3. Junior Software Development (JSD) at Pradhan Mantri Kausalya Vikas Yojana (PMKVY) Nelamangala.
+4. Junior Software Development (JSD) at Pradhan Mantri Kausalya Vikas Yojana (PMKVY) Nelamangala.
 
-4. Internship based on IOT Raspberry Pi from Feb 2017 to May 2017 at Inventeron Technologies and Business Solutions LLP.
+5. Internship based on IOT Raspberry Pi from Feb 2017 to May 2017 at Inventeron Technologies and Business Solutions LLP.
 
 
 
@@ -91,6 +93,10 @@ Developed machine learning models for predictive analysis, resulting in improved
 **Educational Qualification**
 
 1. Bachelor's in Computer Science and Engineering at Dr. SMCE, affiliated with VTU Belagavi in 2017 with a score of 70%.
+ 
+2. Completed PUC (PCMB) at Rural PU College under the Pre-University Board in 2013 with a score of 58%.
+
+3. Completed SSLCat Morarji Desai Residential School under the Karnataka SecondaryEducation Exam Board in 2011 with a score of 82.24%.
 
    
 
