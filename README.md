@@ -29,7 +29,7 @@ https://github.com/gsranjitha897/gsranjitha897
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Professional Experience**
 
-Data Analyst Trainee | Bepec Solutions Pvt Ltd |
+Data Analyst | Bepec Solutions Pvt Ltd |
 Conducted data analysis, interpretation, and extraction of valuable insights.
 Specialized in Data modelling, Data visualization, Predictive analytics, and Dashboard development.
 
